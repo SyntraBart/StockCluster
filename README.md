@@ -6,9 +6,10 @@ The aim of the project is to create a diversified portfolio of stocks using clus
 
 ### Exploring the dataset
 <p float="left" align="center">
-<img src="https://github.com/SyntraBart/StockCluster/blob/tree/main/images/barchart.png"  style="width:400px;"/>
 
-<img src="https://github.com/SyntraBart/StockCluster/blob/tree/main/images/treemap.png" style="width:400px;"/>
+<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/barplot.png" alt="drawing" style="width:400px;"/>
+
+<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/Scatterplot1.png" alt="drawing"     style="width:400px;"/>
 </p>
 
 
