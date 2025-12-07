@@ -6,9 +6,9 @@ The aim of the project is to create a diversified portfolio of stocks using clus
 
 ### Exploring the dataset
 <p float="left" align="center">
-<img src="https://github.com/SyntraBart/StockCluster/tree/blob/main/images/barchart.png"  style="width:400px;"/>
+<img src="https://github.com/SyntraBart/StockCluster/blob/tree/main/images/barchart.png"  style="width:400px;"/>
 
-<img src="https://github.com/SyntraBart/StockCluster/tree/blob/main/images/treemap.png" style="width:400px;"/>
+<img src="https://github.com/SyntraBart/StockCluster/blob/tree/main/images/treemap.png" style="width:400px;"/>
 </p>
 
 
